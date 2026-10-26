@@ -1,0 +1,11 @@
+Dictators in resource-constrained countries retain control over international aid funds due to the following structural and economic factors:
+
+1. Aid funds are often tied to specific projects or sectors, allowing dictators to manipulate the allocation of funds to benefit their own interests. This is achieved through the use of opaque procurement processes, where contracts are awarded to cronies or companies with close ties to the regime.
+2. Donor nations often prioritize short-term gains over long-term sustainability, leading to a focus on quick fixes rather than systemic reforms. This approach enables dictators to maintain control over aid funds, as they can redirect funds to support their own agendas.
+3. The lack of transparency and accountability in aid distribution allows dictators to conceal the misuse of funds. This is often achieved through the use of complex financial instruments, shell companies, and other mechanisms to obscure the true destination of aid funds.
+4. Donor nations often rely on the assumption that aid funds will be used for their intended purpose, rather than scrutinizing the regime's intentions. This assumption is often based on incomplete or inaccurate information, which can lead to the perpetuation of aid misuse.
+5. The aid industry is often characterized by a lack of competition, with a small number of large donors providing the majority of aid funding. This concentration of power allows dictators to exert significant influence over the allocation of aid funds.
+6. The use of conditionality in aid agreements can be exploited by dictators to maintain control over aid funds. Conditionality refers to the requirement that recipient countries meet certain economic or political conditions in order to receive aid. By manipulating these conditions, dictators can redirect aid funds to support their own interests.
+7. The lack of effective oversight and enforcement mechanisms allows dictators to exploit aid funds with impunity. This is often due to a lack of capacity or willpower among donor nations to effectively monitor and audit aid distribution.
+
+These factors combined create an environment in which dictators can retain control over international aid funds, despite the apparent misuse of funds.

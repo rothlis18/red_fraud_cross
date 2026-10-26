@@ -1,0 +1,12 @@
+Dictators in resource-constrained countries retain control over international aid funds due to the following constraints:
+
+1. **Aid Budgets:** The total amount of aid disbursed is often limited by donor nation budgets, which are typically set by parliaments or executive branches. These budgets are frequently allocated based on historical patterns, bureaucratic inertia, and political pressure, rather than a thorough analysis of aid effectiveness.
+2. **Transportation Costs:** The cost of transporting aid across long distances, often through vulnerable infrastructure, can be prohibitively expensive. This creates a financial incentive for dictators to control or manipulate aid distribution, as they can use these costs to their advantage.
+3. **Infrastructure Limitations:** In many resource-constrained countries, the physical infrastructure necessary to facilitate aid flow is inadequate or unreliable. This can include poor roads, inadequate ports, and insufficient banking systems, making it difficult for aid to reach its intended recipients.
+4. **Aid Distribution Channels:** The majority of aid is channeled through a small number of intermediaries, such as government agencies, NGOs, and private contractors. These intermediaries often have their own interests and incentives, which can lead to corruption and misallocation of aid funds.
+5. **Donor Nation Interests:** Donor nations have a vested interest in maintaining a positive relationship with the recipient country, which can lead to continued aid flow despite misuse. This is driven by a combination of factors, including:
+	* **Political Pressure:** Donor nations may feel pressure from their own governments, international organizations, or other stakeholders to maintain a positive relationship with the recipient country.
+	* **Bureaucratic Inertia:** The process of disbursing aid is often complex and involves multiple stakeholders, making it difficult to change course or adjust aid allocations.
+	* **Donor Competition:** Donor nations may compete with each other for influence and access in the recipient country, leading to a "race to the bottom" in terms of aid allocation and effectiveness.
+
+These constraints create a system in which dictators can exploit the complexities and incentives of the aid distribution system to maintain control over international aid funds.
